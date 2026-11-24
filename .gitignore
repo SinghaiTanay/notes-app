@@ -1,1 +1,5 @@
+# Python generated files
+__pycache__/
+*.py[cod]
 .env
+checking.py
